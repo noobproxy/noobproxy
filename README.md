@@ -13,4 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
-[noobproxy/page2.md] Page2
+Project Ideas : 
+
+1) Game development in Rust  ( Pixel , FPS )
+
+2) Setting up a poker zoom cluster. 
+
+3) 2048 in WASM
+
+4) Setting up prometheus on minikube
+
+5) Arch Linux installation and drivers + i3 configs
+
+https://cloud.google.com/blog/products/containers-kubernetes/exposing-services-on-gke
+https://rust-lang.github.io/async-book/07_workarounds/05_recursion.html
+https://speakerdeck.com/thockin/bringing-traffic-into-your-kubernetes-cluster
